@@ -7,7 +7,7 @@ const Landing: React.FC = () => {
       <Card />
       <Button
         title="Click Me"
-        styles="hover:bg-red-500 lg:rounded-lg md:rounded-md sm:rounded-sm "
+        styles="hover:bg-red-500 rounded-full lg:rounded-lg md:rounded-md sm:rounded-sm "
       />
     </div>
   );
